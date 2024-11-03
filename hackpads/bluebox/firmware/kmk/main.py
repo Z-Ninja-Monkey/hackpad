@@ -1,0 +1,1 @@
+#I have no idea how kmk works but I'm going to try to use it to make a more customized and advanced keyboard firmware
